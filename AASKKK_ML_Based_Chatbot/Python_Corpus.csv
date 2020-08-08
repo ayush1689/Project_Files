@@ -1,0 +1,217 @@
+﻿Topic_Code,Topic_Categories,Question,Response
+AASKK01,Python Introduction,I want to know about Python,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,What is Python,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,I Want to understand Python,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,what is python ecosystem,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,whether python ecosystem is well supported,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,Is python general purpose,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,Is python accessible,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,What is jupyter notebook,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,How python code is different from notebook,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Lists,what is list,https://chrisalbon.com/#python
+AASKK01,Dictionary,what is dictionary,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Python Introduction,Which field python is extensively used,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,"what is AI, Machine Learning, Big Data computing and big data?",https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,Does python has features of data analytics,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,what are all python libraries ,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,"tensorflow, OpenCV and pandas are part of python?",https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,Is python a high level language?,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Lists,what is an index in a list?,https://chrisalbon.com/#python
+AASKK01,Lists,what is a reverse list?,https://chrisalbon.com/#python
+AASKK01,Lists,whether list is mutable?,https://chrisalbon.com/#python
+AASKK01,Lists,can we concatenate two lists?,https://chrisalbon.com/#python
+AASKK01,Dictionary,what is key value pair in a dictionary?,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Dictionary,whether keys are always unique in a dictionary?,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,File,how to open a file in python. ,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what are all different modes available in python,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what is file read operation?,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what is file write operation?,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what is file close operation?,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,how to close a file automatically when you use file read?,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what are all different file types we can read in python,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,Dictionary,how to merge two python dictionaries in a single expression?,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Numpy,what is NumPy and  pandas?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Plotting,what  is seaborn?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Pandas,Can excel be read in python?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Pandas,can csv file be read in python?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Dictionary,how to sort objects in a dictionary?,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Lists,pattern matching in lists?,https://chrisalbon.com/#python
+AASKK01,Lists,map two lists into single list?,https://chrisalbon.com/#python
+AASKK01,Lists,merging/adding lists in python?,https://chrisalbon.com/#python
+AASKK01,Dictionary,comparing massive lists of dictionaries from python,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Lists,sorting and grouping nested lists in python,https://chrisalbon.com/#python
+AASKK01,Lists,ordered lists in python,https://chrisalbon.com/#python
+AASKK01,Dictionary,how to merge two python dictionaries in a single expression?,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Plotting,how to plot MATLAB functions in python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Pandas,what is pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,PivotTable,what is pandas pivot table?,https://pbpython.com/pandas-pivot-table-explained.html
+AASKK01,PivotTable,what is pandas cut method?,https://pbpython.com/pandas-pivot-table-explained.html
+AASKK01,PivotTable,what is pandas cut method?,https://pbpython.com/pandas-pivot-table-explained.html
+AASKK01,PivotTable,how to sort pandas pivot table?,https://pbpython.com/pandas-pivot-table-explained.html
+AASKK01,GroupBy,What is Pandas Groupby Object,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,what is aggregation in pandas groupby ?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,Missing,what are missing values in pandas?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Numpy,"how to create 3 dimensions matrix in NumPy , like MATLAB a(:,:,:)",https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Missing,How to fill in missing  value in date time format in pandas?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Plotting,How to plot boxplot in pandas?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,How to understand boxplot outliers?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,How to calculate boxplots with imputed data,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,How to calculate pvalue between boxplot boxes in python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Numpy,combining 2D arrays to 3D arrays,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Pandas,How to create pivot with totals (margins) in Pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Missing,How to remove missing values?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Missing,How to impute dataframes?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Plotting,How to plot a pairplot using python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Missing,what is simple imputer ?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Plotting,How to generate histogram in python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Missing,How to fill missing value with  median?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Missing,How to fill a missing value with mean?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Missing,How to fill a missing value with forward fill?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Pandas,What is Pandas library?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Pandas,How to read an excel in python?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Pandas,How to read a csv file in python?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Plotting,How is MATLAB different from python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Pandas,How to utilize pandas dataframe?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Numpy,Can please elaborate on NumPy apply method?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Plotting,What are all different kind of plotting that can be done with python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Missing,How to Detect missing values with np.nan,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Plotting,What are all basic data graphs in pandas?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,What is a bar chart in pandas?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,GroupBy,How to groupby one column in pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to groupby multiple columns in pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to group numbers in pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to select list of columns for groupby in pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,What is the difference between aggregating by size and count in pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,Misc,How to comment multiple lines in python?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,What are docstrings in Python?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,How can the ternary operators be used in python?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,"What does this mean: *args, **kwargs? And why would we use it?",https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,What does len() do?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,File,How can files be deleted in Python?,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,Numpy,How to create Array and summary of Array,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,how to identify a Position in an array?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,What is Indexing?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,How to create matrix?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,Converting a data type to different data type using NumPy?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,How to use different functions using NumPy?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,How to print a NumPy array by suppressing the scientific notation (like 1e10)?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,How to make a python function that handles scalars to work on NumPy arrays,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,How to do Ranking?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Plotting,Which library would you prefer for plotting in Python language?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,Is it possible to plot histogram in Pandas without calling Matplotlib?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,Which python library is built on top of matplotlib and Pandas to ease data plotting?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,What are different types of plots in python,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,What is Stacked barplot with matplotlib,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,Which plot is used for correlation,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,Histogram used for?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,Matplotlib Python Plotting Ways?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,String,What are strings?,https://www.kaggle.com/getting-started/108933
+AASKK01,String,How to implement string split ?,https://www.kaggle.com/getting-started/108933
+AASKK01,String,How to capitalize the first letter of a string,https://www.kaggle.com/getting-started/108933
+AASKK01,String,How to lower the case of entire string,https://www.kaggle.com/getting-started/108933
+AASKK01,String,What is split used for in spring function?,https://www.kaggle.com/getting-started/108933
+AASKK01,Statistics,python and statistical analysis tutorials,https://chrisalbon.com/#statistics
+AASKK01,Statistics,How different statistical tests are performed in python,https://chrisalbon.com/#statistics
+AASKK01,Statistics,taking a t-test with python?,https://chrisalbon.com/#statistics
+AASKK01,Statistics,chi squared results in r and python,https://chrisalbon.com/#statistics
+AASKK01,Statistics,what is descriptive statistics,https://chrisalbon.com/#statistics
+AASKK01,Statistics,What is describe function in python,https://chrisalbon.com/#statistics
+AASKK01,Statistics,What is quantile analysis in python?,https://chrisalbon.com/#statistics
+AASKK01,Statistics,How to calculate statistics from python?,https://chrisalbon.com/#statistics
+AASKK01,Statistics,Can you give me some tutorials on Statistical analysis of python?,https://chrisalbon.com/#statistics
+AASKK01,Statistics,How to get dataframe various summary statistics?,https://chrisalbon.com/#statistics
+AASKK01,Sets,what are sets,https://chrisalbon.com/#python
+AASKK01,Sets,whether we can have unique elements in sets?,https://chrisalbon.com/#python
+AASKK01,Sets,whether sets are mutable?,https://chrisalbon.com/#python
+AASKK01,Sets,what operations we can perform in sets? ,https://chrisalbon.com/#python
+AASKK01,Dictionary,How is key value pair used in dictionary,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Dictionary,How to create a dictionary,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Dictionary,How to sort a dictionary,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Dictionary,How to merge two dictionaries,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Dictionary,How to convert a dictionary to dataframe,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,File,How to open a file inline,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,How to operate on a sentence in a file,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,What are all different modes of file reading available,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what is file reading,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what is file operation,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,GroupBy,Why groupby is needed in pandas,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to aggregate a groupby pandas solution,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to group categorical variables in pandas,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to group columns in pandas,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,method to group different columns,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,Lists,what is list comprehension,https://chrisalbon.com/#python
+AASKK01,Lists,what is list concatenation,https://chrisalbon.com/#python
+AASKK01,Lists,what is list addition,https://chrisalbon.com/#python
+AASKK01,Lists,what is list removal,https://chrisalbon.com/#python
+AASKK01,Lists,what is list merging,https://chrisalbon.com/#python
+AASKK01,Lists,how to map two lists in python,https://chrisalbon.com/#python
+AASKK01,Misc,How to serialize a pandas dataframe?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,How to create Pandas series?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,what is a value counts of a series?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,pandas merge columns to a single time series,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,Get particular row as series from pandas dataframe,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,how to generate random numbers in python,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,"what is normal , uniform and gaussian distribution in python?",https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,what is data down sampling in pandas?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,How to sample randomly in a pandas dataframe?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,what is stratified sampling in a pandas dataframe?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,What are different kind of random numbers in a pandas dataframe?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,how to generate random numbers in python with uniform distribution?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,how to generate random numbers in python with normal distribution?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,how to generate random numbers in python with  many distributions?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,How to create random large datasets?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Regular Expression,How to Match a Symbol,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to Match A Unicode Character,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to Match A Word,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to Match Any Character,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to Match Any Of A List Of Characters,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to Match Exact Text,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,Match Integers Of Any Length,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to match series of words,https://chrisalbon.com/#regex
+AASKK01,Greetings,Hi there,"Hi there, how can I help?"
+AASKK01,Greetings,How are you,"Hello, thanks for asking"
+AASKK01,Greetings,Is anyone there?,"Hello, Good to see you"
+AASKK01,Greetings,Hey,"Hi there, how can I help?"
+AASKK01,Greetings,Hola,"Hi there, how can I help?"
+AASKK01,Greetings,Hello,"Hi there, how can I help?"
+AASKK01,Greetings,Good day,"Good to see you, how can I help you ?"
+AASKK01,Bye Greetings,Bye,Please Click on Exit or Restart button on top
+AASKK01,Bye Greetings,Exit,Please Click on Exit or Restart button on top
+AASKK01,Bye Greetings,Restart,Please Click on Exit or Restart button on top
+AASKK01,Bye Greetings,Close,Please Click on Exit or Restart button on top
+AASKK01,Functions,what are methods?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,how are methods different from functions?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,why methods are always associated with objects of the class?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,why methods can operate with data only of the class?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,how functions are different from methods?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,whether functions return data or not?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,whether methods return data or not?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,how to pass an argument to the function?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,calling a function of module from a strong with function name in python,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what's the best way to return multiple values from a function in python?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what is a len function?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,where len function is used?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,passing functions which have multiple return values as arguments in python,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,defining dynamic functions to a string,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what is lambda function?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what is map operator?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what is apply method?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,using numpy.apply,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,how to apply function to only certain array elements?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what does import function does?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,How to use lambda function in python?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,How to use map function in python?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,What is an operator and function in python?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,What is apply method in python?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,How to create custom functions in python?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Greetings,Hi there,"Hi there, how can I help?"
+AASKK01,Greetings,How are you,"Hello, thanks for asking"
+AASKK01,Greetings,Is anyone there?,"Hello, Good to see you"
+AASKK01,Greetings,Hey,"Hi there, how can I help?"
+AASKK01,Greetings,Hola,"Hi there, how can I help?"
+AASKK01,Greetings,Hello,"Hi there, how can I help?"
+AASKK01,Greetings,Good day,"Good to see you, how can I help you ?"
+AASKK01,Bye Greetings,Bye,Please Click on Exit or Restart button on top
+AASKK01,Bye Greetings,Exit,Please Click on Exit or Restart button on top
+AASKK01,Bye Greetings,Restart,Please Click on Exit or Restart button on top
+AASKK01,Bye Greetings,Close,Please Click on Exit or Restart button on top

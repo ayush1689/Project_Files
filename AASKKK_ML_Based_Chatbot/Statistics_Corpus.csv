@@ -1,0 +1,129 @@
+﻿Topic_Code,Topic_Categories,Question,Response
+AASKK02,Data Analysis,What is Univariate Analysis,https://www.geeksforgeeks.org/univariate-bivariate-and-multivariate-data-and-its-analysis/
+AASKK02,Data Analysis,What is Multivariate Analysis,https://www.geeksforgeeks.org/univariate-bivariate-and-multivariate-data-and-its-analysis/
+AASKK02,Central Tendency and 3 Ms,What are Central Tendency,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,What are 3Ms,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,What is mean,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,What is median,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,What is mode,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,How to calculate mean ,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,How to calculate median,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,How to calculate mode,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Covariance,What are covariance,https://en.wikipedia.org/wiki/Covariance
+AASKK02,Covariance,How to find Coefficient of Correlation,https://en.wikipedia.org/wiki/Covariance
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",What is Measures of Dispersion,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",How to calculate Dispersion,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",What is Range,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",How to calculate Range,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",What is IQR,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",How to calculate IQR,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",What is Standard Deviation,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",How to calculate Standard Deviation,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",What is variance,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",How to calculate variance,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,Coefficient of Variation,What is Coefficient of Variation,https://en.wikipedia.org/wiki/Coefficient_of_variation
+AASKK02,Coefficient of Variation,How to calculate Coefficient of Variation,https://en.wikipedia.org/wiki/Coefficient_of_variation
+AASKK02,The Empirical Rule and Chebyshev Rule,What is Empirical Rule,https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)/02%3A_Descriptive_Statistics/2.05%3A_The_Empirical_Rule_and_Chebyshev%27s_Theorem
+AASKK02,The Empirical Rule and Chebyshev Rule,What is Chebyshev Rule,https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)/02%3A_Descriptive_Statistics/2.05%3A_The_Empirical_Rule_and_Chebyshev%27s_Theorem
+AASKK02,Five Number Summary,What is Five Number Summary,https://en.wikipedia.org/wiki/Five-number_summary
+AASKK02,Five Number Summary,How to calculate Five Number Summary,https://en.wikipedia.org/wiki/Five-number_summary
+AASKK02,Boxplot and whisker plots,Why Boxplot used,https://statisticsbyjim.com/basics/outliers/
+AASKK02,Boxplot and whisker plots,How to find the outlier in Data,https://statisticsbyjim.com/basics/outliers/
+AASKK02,Boxplot and whisker plots,How to deal with Outliers,https://statisticsbyjim.com/basics/outliers/
+AASKK02,Boxplot and whisker plots,How to determine outliers in Boxplot,https://statisticsbyjim.com/basics/outliers/
+AASKK02,Data Visualizations,What are the other important plots and there significance,https://en.wikipedia.org/wiki/Data_visualization
+AASKK02,Skewness ,How skewness is measured,https://en.wikipedia.org/wiki/Skewness
+AASKK02,Skewness ,What are different types of skewness,https://en.wikipedia.org/wiki/Skewness
+AASKK02,Skewness ,How to remove skewness from data,https://en.wikipedia.org/wiki/Skewness
+AASKK02,Skewness ,What is Left skewness,https://en.wikipedia.org/wiki/Skewness
+AASKK02,Skewness ,What is Right Skewed Data,https://en.wikipedia.org/wiki/Skewness
+AASKK02,Data Visualizations,What is Data Visualizations,https://en.wikipedia.org/wiki/Data_visualization
+AASKK02,Data Visualizations,How to do Data Visualizations,https://en.wikipedia.org/wiki/Data_visualization
+AASKK02,Correlation Analysis,What is Correlation Analysis,https://en.wikipedia.org/wiki/Correlation_coefficient
+AASKK02,Correlation Analysis,How to do Correlation Analysis,https://en.wikipedia.org/wiki/Correlation_coefficient
+AASKK02,Correlation Analysis,Why Correlation Analysis is done.,https://en.wikipedia.org/wiki/Correlation_coefficient
+AASKK02,Probability - Meaning and concepts,How Probability calculated.,https://en.wikipedia.org/wiki/Probability
+AASKK02,Probability - Meaning and concepts,Where probability is used in Machine Learning,https://en.wikipedia.org/wiki/Probability
+AASKK02,Probability - Meaning and concepts,what are the different rules of calculating Probability,https://en.wikipedia.org/wiki/Probability
+AASKK02,Probability - Meaning and concepts,What is Probability distribution,https://en.wikipedia.org/wiki/Probability
+AASKK02,Bayes theorem and Example,What is Marginal Probability,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Bayes theorem and Example,What are the examples of Marginal Probability,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Bayes theorem and Example,What is Bayes theorem,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Bayes theorem and Example,What is Conditional probability,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Bayes theorem and Example,Where does Bayes theorem used in Machine Learning,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Bayes theorem and Example,Give some examples of Bayes theorem application ,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Distributions and Example,What is Binomial Distribution,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Where does Binomial Distribution used in Machine Learning,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Give some examples of Binomial Distribution application ,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,What is Poisson Distribution,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Where does Poisson Distribution used in Machine Learning,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Give some examples of Poisson Distribution application,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,What is Normal Distribution,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Where does Normal Distribution used in Machine Learning,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Give some examples of Normal Distribution application ,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Hypothesis Formulation,What is Hypothesis,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis Formulation,How Hypothesis are formulated,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis Formulation,What are Null and Alternate Hypothesis,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis Formulation,How Hypothesis testing is done,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis Formulation,What are Type l errors,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis Formulation,What are Type ll errors,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis  Tests,What is one tailed Hypothesis test,https://statisticsbyjim.com/hypothesis-testing/one-tailed-two-tailed-hypothesis-tests/
+AASKK02,Hypothesis  Tests,What is two tailed Hypothesis test,https://statisticsbyjim.com/hypothesis-testing/one-tailed-two-tailed-hypothesis-tests/
+AASKK02,Hypothesis  Tests,When one tailed Hypothesis test is done,https://statisticsbyjim.com/hypothesis-testing/one-tailed-two-tailed-hypothesis-tests/
+AASKK02,Hypothesis  Tests,When two tailed Hypothesis test is done,https://statisticsbyjim.com/hypothesis-testing/one-tailed-two-tailed-hypothesis-tests/
+AASKK02,Hypothesis  Tests,What is Single sample z - test of mean,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Hypothesis  Tests,What is the significance of Single sample z - test of mean,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Hypothesis  Tests,What is t - test of mean,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Hypothesis  Tests,What is the significance of  t - test of mean,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Hypothesis  Tests,What is z - test of Proportion,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Hypothesis  Tests,What is the significance of  z - test of Proportion,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Test of variance,When to do Test of variance,https://www.empirical-methods.hslu.ch/decisiontree/differences/variance/1-13chi-square-test-for-variance/
+AASKK02,Test of variance,What are the different types of variance tests,https://www.empirical-methods.hslu.ch/decisiontree/differences/variance/1-13chi-square-test-for-variance/
+AASKK02,Test of variance,What is Chi Square test,https://www.empirical-methods.hslu.ch/decisiontree/differences/variance/1-13chi-square-test-for-variance/
+AASKK02,Test of variance,When to do Chi Square test,https://www.empirical-methods.hslu.ch/decisiontree/differences/variance/1-13chi-square-test-for-variance/
+AASKK02,ANOVA,What is F - ratio test,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,When to do F - ratio test,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,What is ANOVA,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,When to do ANOVA test,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,What are One Sample Testing,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,When to do One Sample Testing,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,What are Two Sample Testing,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,When to do Two Sample Testing,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,Scaling and Normalization,What are Scaling,https://kharshit.github.io/blog/2018/03/23/scaling-vs-normalization
+AASKK02,Scaling and Normalization,When to do Scaling,https://kharshit.github.io/blog/2018/03/23/scaling-vs-normalization
+AASKK02,Scaling and Normalization,What are Normalization,https://kharshit.github.io/blog/2018/03/23/scaling-vs-normalization
+AASKK02,Scaling and Normalization,When to do Normalization,https://kharshit.github.io/blog/2018/03/23/scaling-vs-normalization
+AASKK02,Scaling and Normalization,What are the pros and cons of Scaling and Normalization,https://kharshit.github.io/blog/2018/03/23/scaling-vs-normalization
+AASKK02,Exploratory Data analysis,How to do Exploratory Data analysis,https://en.wikipedia.org/wiki/Exploratory_data_analysis
+AASKK02,Exploratory Data analysis,How to Summarizes data (Data and Histogram),https://en.wikipedia.org/wiki/Exploratory_data_analysis
+AASKK02,Data Preprocessing,How to do Encoding of Categorical Data,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c825
+AASKK02,Data Preprocessing,What are the different kind of Encoding,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c826
+AASKK02,Data Preprocessing,What is Data Preprocessing,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c827
+AASKK02,Data Preprocessing,What are the different methods to do Data Preprocessing,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c828
+AASKK02,Data Preprocessing,What is Data Quality Assessment,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c829
+AASKK02,Data Preprocessing,What is Feature Aggregation,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c830
+AASKK02,Data Preprocessing,What is Feature Sampling,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c831
+AASKK02,Data Preprocessing,What is Dimensionality Reduction,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c832
+AASKK02,Data Preprocessing,What is Feature Encoding,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c833
+AASKK02,Concepts of sampling distribution and Central Limit Theorem,What is sampling distribution,https://statisticsbyjim.com/basics/central-limit-theorem/
+AASKK02,Concepts of sampling distribution and Central Limit Theorem,When we need to check for sampling distribution,https://statisticsbyjim.com/basics/central-limit-theorem/
+AASKK02,Concepts of sampling distribution and Central Limit Theorem,What is Central Limit Theorem,https://statisticsbyjim.com/basics/central-limit-theorem/
+AASKK02,Concepts of sampling distribution and Central Limit Theorem,What are the different types of Central Limit Theorem,https://statisticsbyjim.com/basics/central-limit-theorem/
+AASKK02,Confidence Intervals and tests,What is Confidence Intervals,https://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests-confidence-intervals-and-confidence-levels
+AASKK02,Confidence Intervals and tests,How to calculate Confidence Intervals,https://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests-confidence-intervals-and-confidence-levels
+AASKK02,Confidence Intervals and tests,When to calculate Confidence Intervals,https://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests-confidence-intervals-and-confidence-levels
+AASKK02,Feature Selection,What is feature selection,https://en.wikipedia.org/wiki/Feature_selection
+AASKK02,Feature Selection,How feature selection is done,https://en.wikipedia.org/wiki/Feature_selection
+AASKK02,Feature Selection,What is the use of feature selection,https://en.wikipedia.org/wiki/Feature_selection
+AASKK02,Feature Selection,Curse of dimensionality,https://en.wikipedia.org/wiki/Feature_selection
+AASKK02,Greetings,Hi there,"Hi there, how can I help?"
+AASKK02,Greetings,How are you,"Hello, thanks for asking"
+AASKK02,Greetings,Is anyone there?,"Hello, Good to see you"
+AASKK02,Greetings,Hey,"Hi there, how can I help?"
+AASKK02,Greetings,Hola,"Hi there, how can I help?"
+AASKK02,Greetings,Hello,"Hi there, how can I help?"
+AASKK02,Greetings,Good day,"Good to see you, how can I help you ?"
+AASKK02,Bye Greetings,Bye,Please Click on Exit or Restart button on top
+AASKK02,Bye Greetings,Exit,Please Click on Exit or Restart button on top
+AASKK02,Bye Greetings,Restart,Please Click on Exit or Restart button on top
+AASKK02,Bye Greetings,Close,Please Click on Exit or Restart button on top

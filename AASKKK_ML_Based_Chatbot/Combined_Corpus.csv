@@ -1,0 +1,672 @@
+﻿Topic_Code,Topic_Categories,Question,Response
+AASKK01,Python Introduction,I want to know about Python,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,What is Python,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,I Want to understand Python,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,what is python ecosystem,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,whether python ecosystem is well supported,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,Is python general purpose,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,Is python accessible,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,What is jupyter notebook,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,How python code is different from notebook,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Lists,what is list,https://chrisalbon.com/#python
+AASKK01,Dictionary,what is dictionary,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Python Introduction,Which field python is extensively used,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,"what is AI, Machine Learning, Big Data computing and big data?",https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,Does python has features of data analytics,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,what are all python libraries ,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,"tensorflow, OpenCV and pandas are part of python?",https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Python Introduction,Is python a high level language?,https://beginnersbook.com/2018/01/introduction-to-python-programming/ 
+AASKK01,Lists,what is an index in a list?,https://chrisalbon.com/#python
+AASKK01,Lists,what is a reverse list?,https://chrisalbon.com/#python
+AASKK01,Lists,whether list is mutable?,https://chrisalbon.com/#python
+AASKK01,Lists,can we concatenate two lists?,https://chrisalbon.com/#python
+AASKK01,Dictionary,what is key value pair in a dictionary?,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Dictionary,whether keys are always unique in a dictionary?,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,File,how to open a file in python. ,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what are all different modes available in python,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what is file read operation?,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what is file write operation?,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what is file close operation?,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,how to close a file automatically when you use file read?,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what are all different file types we can read in python,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,Dictionary,how to merge two python dictionaries in a single expression?,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Numpy,what is NumPy and  pandas?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Plotting,what  is seaborn?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Pandas,Can excel be read in python?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Pandas,can csv file be read in python?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Dictionary,how to sort objects in a dictionary?,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Lists,pattern matching in lists?,https://chrisalbon.com/#python
+AASKK01,Lists,map two lists into single list?,https://chrisalbon.com/#python
+AASKK01,Lists,merging/adding lists in python?,https://chrisalbon.com/#python
+AASKK01,Dictionary,comparing massive lists of dictionaries from python,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Lists,sorting and grouping nested lists in python,https://chrisalbon.com/#python
+AASKK01,Lists,ordered lists in python,https://chrisalbon.com/#python
+AASKK01,Dictionary,how to merge two python dictionaries in a single expression?,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Plotting,how to plot MATLAB functions in python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Pandas,what is pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,PivotTable,what is pandas pivot table?,https://pbpython.com/pandas-pivot-table-explained.html
+AASKK01,PivotTable,what is pandas cut method?,https://pbpython.com/pandas-pivot-table-explained.html
+AASKK01,PivotTable,what is pandas cut method?,https://pbpython.com/pandas-pivot-table-explained.html
+AASKK01,PivotTable,how to sort pandas pivot table?,https://pbpython.com/pandas-pivot-table-explained.html
+AASKK01,GroupBy,What is Pandas Groupby Object,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,what is aggregation in pandas groupby ?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,Missing,what are missing values in pandas?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Numpy,"how to create 3 dimensions matrix in NumPy , like MATLAB a(:,:,:)",https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Missing,How to fill in missing  value in date time format in pandas?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Plotting,How to plot boxplot in pandas?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,How to understand boxplot outliers?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,How to calculate boxplots with imputed data,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,How to calculate pvalue between boxplot boxes in python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Numpy,combining 2D arrays to 3D arrays,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Pandas,How to create pivot with totals (margins) in Pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Missing,How to remove missing values?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Missing,How to impute dataframes?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Plotting,How to plot a pairplot using python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Missing,what is simple imputer ?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Plotting,How to generate histogram in python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Missing,How to fill missing value with  median?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Missing,How to fill a missing value with mean?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Missing,How to fill a missing value with forward fill?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Pandas,What is Pandas library?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Pandas,How to read an excel in python?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Pandas,How to read a csv file in python?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Plotting,How is MATLAB different from python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Pandas,How to utilize pandas dataframe?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_2-Pandas-Fundamentals.ipynb
+AASKK01,Numpy,Can please elaborate on NumPy apply method?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Plotting,What are all different kind of plotting that can be done with python?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Missing,How to Detect missing values with np.nan,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Plotting,What are all basic data graphs in pandas?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,What is a bar chart in pandas?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,GroupBy,How to groupby one column in pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to groupby multiple columns in pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to group numbers in pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to select list of columns for groupby in pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,What is the difference between aggregating by size and count in pandas?,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,Misc,How to comment multiple lines in python?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,What are docstrings in Python?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,How can the ternary operators be used in python?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,"What does this mean: *args, **kwargs? And why would we use it?",https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,What does len() do?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,File,How can files be deleted in Python?,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,Numpy,How to create Array and summary of Array,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,how to identify a Position in an array?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,What is Indexing?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,How to create matrix?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,Converting a data type to different data type using NumPy?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,How to use different functions using NumPy?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,How to print a NumPy array by suppressing the scientific notation (like 1e10)?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,How to make a python function that handles scalars to work on NumPy arrays,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Numpy,How to do Ranking?,https://www.kaggle.com/python10pm/learn-numpy-the-hard-way-70-exercises-solutions
+AASKK01,Plotting,Which library would you prefer for plotting in Python language?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,Is it possible to plot histogram in Pandas without calling Matplotlib?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,Which python library is built on top of matplotlib and Pandas to ease data plotting?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,What are different types of plots in python,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,What is Stacked barplot with matplotlib,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,Which plot is used for correlation,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,Histogram used for?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,Plotting,Matplotlib Python Plotting Ways?,https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step
+AASKK01,String,What are strings?,https://www.kaggle.com/getting-started/108933
+AASKK01,String,How to implement string split ?,https://www.kaggle.com/getting-started/108933
+AASKK01,String,How to capitalize the first letter of a string,https://www.kaggle.com/getting-started/108933
+AASKK01,String,How to lower the case of entire string,https://www.kaggle.com/getting-started/108933
+AASKK01,String,What is split used for in spring function?,https://www.kaggle.com/getting-started/108933
+AASKK01,Statistics,python and statistical analysis tutorials,https://chrisalbon.com/#statistics
+AASKK01,Statistics,How different statistical tests are performed in python,https://chrisalbon.com/#statistics
+AASKK01,Statistics,taking a t-test with python?,https://chrisalbon.com/#statistics
+AASKK01,Statistics,chi squared results in r and python,https://chrisalbon.com/#statistics
+AASKK01,Statistics,what is descriptive statistics,https://chrisalbon.com/#statistics
+AASKK01,Statistics,What is describe function in python,https://chrisalbon.com/#statistics
+AASKK01,Statistics,What is quantile analysis in python?,https://chrisalbon.com/#statistics
+AASKK01,Statistics,How to calculate statistics from python?,https://chrisalbon.com/#statistics
+AASKK01,Statistics,Can you give me some tutorials on Statistical analysis of python?,https://chrisalbon.com/#statistics
+AASKK01,Statistics,How to get dataframe various summary statistics?,https://chrisalbon.com/#statistics
+AASKK01,Sets,what are sets,https://chrisalbon.com/#python
+AASKK01,Sets,whether we can have unique elements in sets?,https://chrisalbon.com/#python
+AASKK01,Sets,whether sets are mutable?,https://chrisalbon.com/#python
+AASKK01,Sets,what operations we can perform in sets? ,https://chrisalbon.com/#python
+AASKK01,Dictionary,How is key value pair used in dictionary,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Dictionary,How to create a dictionary,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Dictionary,How to sort a dictionary,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Dictionary,How to merge two dictionaries,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,Dictionary,How to convert a dictionary to dataframe,https://www.kaggle.com/ealtili/python-3-dictionary
+AASKK01,File,How to open a file inline,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,How to operate on a sentence in a file,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,What are all different modes of file reading available,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what is file reading,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,File,what is file operation,https://www.edureka.co/blog/file-handling-in-python/
+AASKK01,GroupBy,Why groupby is needed in pandas,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to aggregate a groupby pandas solution,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to group categorical variables in pandas,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,How to group columns in pandas,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,GroupBy,method to group different columns,https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_3-Data-Wrangling-with-Pandas.ipynb
+AASKK01,Lists,what is list comprehension,https://chrisalbon.com/#python
+AASKK01,Lists,what is list concatenation,https://chrisalbon.com/#python
+AASKK01,Lists,what is list addition,https://chrisalbon.com/#python
+AASKK01,Lists,what is list removal,https://chrisalbon.com/#python
+AASKK01,Lists,what is list merging,https://chrisalbon.com/#python
+AASKK01,Lists,how to map two lists in python,https://chrisalbon.com/#python
+AASKK01,Misc,How to serialize a pandas dataframe?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,How to create Pandas series?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,what is a value counts of a series?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,pandas merge columns to a single time series,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,Get particular row as series from pandas dataframe,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,how to generate random numbers in python,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,"what is normal , uniform and gaussian distribution in python?",https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,what is data down sampling in pandas?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,How to sample randomly in a pandas dataframe?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,what is stratified sampling in a pandas dataframe?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,What are different kind of random numbers in a pandas dataframe?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,how to generate random numbers in python with uniform distribution?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,how to generate random numbers in python with normal distribution?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,how to generate random numbers in python with  many distributions?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Misc,How to create random large datasets?,https://www.kaggle.com/dark4user/python-programming-from-a-to-z 
+AASKK01,Regular Expression,How to Match a Symbol,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to Match A Unicode Character,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to Match A Word,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to Match Any Character,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to Match Any Of A List Of Characters,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to Match Exact Text,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,Match Integers Of Any Length,https://chrisalbon.com/#regex
+AASKK01,Regular Expression,How to match series of words,https://chrisalbon.com/#regex
+AASKK01,Greetings,Hi there,"Hi there, how can I help?"
+AASKK01,Greetings,How are you,"Hello, thanks for asking"
+AASKK01,Greetings,Is anyone there?,"Hello, Good to see you"
+AASKK01,Greetings,Hey,"Hi there, how can I help?"
+AASKK01,Greetings,Hola,"Hi there, how can I help?"
+AASKK01,Greetings,Hello,"Hi there, how can I help?"
+AASKK01,Greetings,Good day,"Good to see you, how can I help you ?"
+AASKK01,Bye Greetings,Bye,Please Click on Exit or Restart button on top
+AASKK01,Bye Greetings,Exit,Please Click on Exit or Restart button on top
+AASKK01,Bye Greetings,Restart,Please Click on Exit or Restart button on top
+AASKK01,Bye Greetings,Close,Please Click on Exit or Restart button on top
+AASKK01,Functions,what are methods?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,how are methods different from functions?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,why methods are always associated with objects of the class?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,why methods can operate with data only of the class?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,how functions are different from methods?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,whether functions return data or not?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,whether methods return data or not?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,how to pass an argument to the function?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,calling a function of module from a strong with function name in python,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what's the best way to return multiple values from a function in python?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what is a len function?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,where len function is used?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,passing functions which have multiple return values as arguments in python,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,defining dynamic functions to a string,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what is lambda function?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what is map operator?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what is apply method?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,using numpy.apply,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,how to apply function to only certain array elements?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,what does import function does?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,How to use lambda function in python?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,How to use map function in python?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,What is an operator and function in python?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,What is apply method in python?,https://realpython.com/defining-your-own-python-function/
+AASKK01,Functions,How to create custom functions in python?,https://realpython.com/defining-your-own-python-function/
+AASKK02,Data Analysis,What is Univariate Analysis,https://www.geeksforgeeks.org/univariate-bivariate-and-multivariate-data-and-its-analysis/
+AASKK02,Data Analysis,What is Multivariate Analysis,https://www.geeksforgeeks.org/univariate-bivariate-and-multivariate-data-and-its-analysis/
+AASKK02,Central Tendency and 3 Ms,What are Central Tendency,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,What are 3Ms,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,What is mean,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,What is median,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,What is mode,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,How to calculate mean ,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,How to calculate median,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Central Tendency and 3 Ms,How to calculate mode,https://en.wikipedia.org/wiki/Central_tendency
+AASKK02,Covariance,What are covariance,https://en.wikipedia.org/wiki/Covariance
+AASKK02,Covariance,How to find Coefficient of Correlation,https://en.wikipedia.org/wiki/Covariance
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",What is Measures of Dispersion,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",How to calculate Dispersion,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",What is Range,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",How to calculate Range,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",What is IQR,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",How to calculate IQR,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",What is Standard Deviation,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",How to calculate Standard Deviation,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",What is variance,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,"Measures of Dispersion, Range, IQR,  Standard Deviation, Variance",How to calculate variance,https://en.wikipedia.org/wiki/Statistical_dispersion
+AASKK02,Coefficient of Variation,What is Coefficient of Variation,https://en.wikipedia.org/wiki/Coefficient_of_variation
+AASKK02,Coefficient of Variation,How to calculate Coefficient of Variation,https://en.wikipedia.org/wiki/Coefficient_of_variation
+AASKK02,The Empirical Rule and Chebyshev Rule,What is Empirical Rule,https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)/02%3A_Descriptive_Statistics/2.05%3A_The_Empirical_Rule_and_Chebyshev%27s_Theorem
+AASKK02,The Empirical Rule and Chebyshev Rule,What is Chebyshev Rule,https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)/02%3A_Descriptive_Statistics/2.05%3A_The_Empirical_Rule_and_Chebyshev%27s_Theorem
+AASKK02,Five Number Summary,What is Five Number Summary,https://en.wikipedia.org/wiki/Five-number_summary
+AASKK02,Five Number Summary,How to calculate Five Number Summary,https://en.wikipedia.org/wiki/Five-number_summary
+AASKK02,Boxplot and whisker plots,Why Boxplot used,https://statisticsbyjim.com/basics/outliers/
+AASKK02,Boxplot and whisker plots,How to find the outlier in Data,https://statisticsbyjim.com/basics/outliers/
+AASKK02,Boxplot and whisker plots,How to deal with Outliers,https://statisticsbyjim.com/basics/outliers/
+AASKK02,Boxplot and whisker plots,How to determine outliers in Boxplot,https://statisticsbyjim.com/basics/outliers/
+AASKK02,Data Visualizations,What are the other important plots and there significance,https://en.wikipedia.org/wiki/Data_visualization
+AASKK02,Skewness ,How skewness is measured,https://en.wikipedia.org/wiki/Skewness
+AASKK02,Skewness ,What are different types of skewness,https://en.wikipedia.org/wiki/Skewness
+AASKK02,Skewness ,How to remove skewness from data,https://en.wikipedia.org/wiki/Skewness
+AASKK02,Skewness ,What is Left skewness,https://en.wikipedia.org/wiki/Skewness
+AASKK02,Skewness ,What is Right Skewed Data,https://en.wikipedia.org/wiki/Skewness
+AASKK02,Data Visualizations,What is Data Visualizations,https://en.wikipedia.org/wiki/Data_visualization
+AASKK02,Data Visualizations,How to do Data Visualizations,https://en.wikipedia.org/wiki/Data_visualization
+AASKK02,Correlation Analysis,What is Correlation Analysis,https://en.wikipedia.org/wiki/Correlation_coefficient
+AASKK02,Correlation Analysis,How to do Correlation Analysis,https://en.wikipedia.org/wiki/Correlation_coefficient
+AASKK02,Correlation Analysis,Why Correlation Analysis is done.,https://en.wikipedia.org/wiki/Correlation_coefficient
+AASKK02,Probability - Meaning and concepts,How Probability calculated.,https://en.wikipedia.org/wiki/Probability
+AASKK02,Probability - Meaning and concepts,Where probability is used in Machine Learning,https://en.wikipedia.org/wiki/Probability
+AASKK02,Probability - Meaning and concepts,what are the different rules of calculating Probability,https://en.wikipedia.org/wiki/Probability
+AASKK02,Probability - Meaning and concepts,What is Probability distribution,https://en.wikipedia.org/wiki/Probability
+AASKK02,Bayes theorem and Example,What is Marginal Probability,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Bayes theorem and Example,What are the examples of Marginal Probability,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Bayes theorem and Example,What is Bayes theorem,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Bayes theorem and Example,What is Conditional probability,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Bayes theorem and Example,Where does Bayes theorem used in Machine Learning,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Bayes theorem and Example,Give some examples of Bayes theorem application ,https://en.wikipedia.org/wiki/Bayes%27_theorem
+AASKK02,Distributions and Example,What is Binomial Distribution,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Where does Binomial Distribution used in Machine Learning,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Give some examples of Binomial Distribution application ,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,What is Poisson Distribution,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Where does Poisson Distribution used in Machine Learning,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Give some examples of Poisson Distribution application,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,What is Normal Distribution,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Where does Normal Distribution used in Machine Learning,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Distributions and Example,Give some examples of Normal Distribution application ,https://en.wikipedia.org/wiki/Probability_distribution
+AASKK02,Hypothesis Formulation,What is Hypothesis,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis Formulation,How Hypothesis are formulated,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis Formulation,What are Null and Alternate Hypothesis,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis Formulation,How Hypothesis testing is done,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis Formulation,What are Type l errors,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis Formulation,What are Type ll errors,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+AASKK02,Hypothesis  Tests,What is one tailed Hypothesis test,https://statisticsbyjim.com/hypothesis-testing/one-tailed-two-tailed-hypothesis-tests/
+AASKK02,Hypothesis  Tests,What is two tailed Hypothesis test,https://statisticsbyjim.com/hypothesis-testing/one-tailed-two-tailed-hypothesis-tests/
+AASKK02,Hypothesis  Tests,When one tailed Hypothesis test is done,https://statisticsbyjim.com/hypothesis-testing/one-tailed-two-tailed-hypothesis-tests/
+AASKK02,Hypothesis  Tests,When two tailed Hypothesis test is done,https://statisticsbyjim.com/hypothesis-testing/one-tailed-two-tailed-hypothesis-tests/
+AASKK02,Hypothesis  Tests,What is Single sample z - test of mean,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Hypothesis  Tests,What is the significance of Single sample z - test of mean,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Hypothesis  Tests,What is t - test of mean,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Hypothesis  Tests,What is the significance of  t - test of mean,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Hypothesis  Tests,What is z - test of Proportion,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Hypothesis  Tests,What is the significance of  z - test of Proportion,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTest-Means-Proportions/BS704_HypothesisTest-Means-Proportions_print.html
+AASKK02,Test of variance,When to do Test of variance,https://www.empirical-methods.hslu.ch/decisiontree/differences/variance/1-13chi-square-test-for-variance/
+AASKK02,Test of variance,What are the different types of variance tests,https://www.empirical-methods.hslu.ch/decisiontree/differences/variance/1-13chi-square-test-for-variance/
+AASKK02,Test of variance,What is Chi Square test,https://www.empirical-methods.hslu.ch/decisiontree/differences/variance/1-13chi-square-test-for-variance/
+AASKK02,Test of variance,When to do Chi Square test,https://www.empirical-methods.hslu.ch/decisiontree/differences/variance/1-13chi-square-test-for-variance/
+AASKK02,ANOVA,What is F - ratio test,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,When to do F - ratio test,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,What is ANOVA,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,When to do ANOVA test,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,What are One Sample Testing,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,When to do One Sample Testing,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,What are Two Sample Testing,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,ANOVA,When to do Two Sample Testing,https://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_HypothesisTesting-ANOVA/BS704_HypothesisTesting-Anova_print.html
+AASKK02,Scaling and Normalization,What are Scaling,https://kharshit.github.io/blog/2018/03/23/scaling-vs-normalization
+AASKK02,Scaling and Normalization,When to do Scaling,https://kharshit.github.io/blog/2018/03/23/scaling-vs-normalization
+AASKK02,Scaling and Normalization,What are Normalization,https://kharshit.github.io/blog/2018/03/23/scaling-vs-normalization
+AASKK02,Scaling and Normalization,When to do Normalization,https://kharshit.github.io/blog/2018/03/23/scaling-vs-normalization
+AASKK02,Scaling and Normalization,What are the pros and cons of Scaling and Normalization,https://kharshit.github.io/blog/2018/03/23/scaling-vs-normalization
+AASKK02,Exploratory Data analysis,How to do Exploratory Data analysis,https://en.wikipedia.org/wiki/Exploratory_data_analysis
+AASKK02,Exploratory Data analysis,How to Summarizes data (Data and Histogram),https://en.wikipedia.org/wiki/Exploratory_data_analysis
+AASKK02,Data Preprocessing,How to do Encoding of Categorical Data,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c825
+AASKK02,Data Preprocessing,What are the different kind of Encoding,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c826
+AASKK02,Data Preprocessing,What is Data Preprocessing,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c827
+AASKK02,Data Preprocessing,What are the different methods to do Data Preprocessing,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c828
+AASKK02,Data Preprocessing,What is Data Quality Assessment,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c829
+AASKK02,Data Preprocessing,What is Feature Aggregation,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c830
+AASKK02,Data Preprocessing,What is Feature Sampling,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c831
+AASKK02,Data Preprocessing,What is Dimensionality Reduction,https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c832
+AASKK02,Concepts of sampling distribution and Central Limit Theorem,What is sampling distribution,https://statisticsbyjim.com/basics/central-limit-theorem/
+AASKK02,Concepts of sampling distribution and Central Limit Theorem,When we need to check for sampling distribution,https://statisticsbyjim.com/basics/central-limit-theorem/
+AASKK02,Concepts of sampling distribution and Central Limit Theorem,What is Central Limit Theorem,https://statisticsbyjim.com/basics/central-limit-theorem/
+AASKK02,Concepts of sampling distribution and Central Limit Theorem,What are the different types of Central Limit Theorem,https://statisticsbyjim.com/basics/central-limit-theorem/
+AASKK02,Confidence Intervals and tests,What is Confidence Intervals,https://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests-confidence-intervals-and-confidence-levels
+AASKK02,Confidence Intervals and tests,How to calculate Confidence Intervals,https://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests-confidence-intervals-and-confidence-levels
+AASKK02,Confidence Intervals and tests,When to calculate Confidence Intervals,https://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests-confidence-intervals-and-confidence-levels
+AASKK02,Feature Selection,What is feature selection,https://en.wikipedia.org/wiki/Feature_selection
+AASKK02,Feature Selection,How feature selection is done,https://en.wikipedia.org/wiki/Feature_selection
+AASKK02,Feature Selection,What is the use of feature selection,https://en.wikipedia.org/wiki/Feature_selection
+AASKK02,Feature Selection,Curse of dimensionality,https://en.wikipedia.org/wiki/Feature_selection
+AASKK03,Introduction,what is the process of super vised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what are real life business cases ,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what are the different types of algorithm used in supervised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what are the different domain where supervised learning is used,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what are the common examples of supervised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Preprocessing,what is preprocessing,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,why preprocessing is needed,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,what is missing value imputation,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,what is feature encoding,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,how to do feature encoding,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,how to do one hot encoding,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,what is label encoder,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,how to split our data,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,what is feature scaling,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,What is the Validation of model,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,What is Standardization,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,What is Normalization,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Types of Algorithm,Polynomial Regression,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Types of Algorithm,Logistic Regression,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Types of Algorithm,Naïve Bayes Algorithm,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Types of Algorithm,k nearest neighbor,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Types of Algorithm,Linear regression,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Types of Algorithm,support vector machine,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Linear Regression,what is Linear Regression,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
+AASKK03,Linear Regression,What is linear relationship ,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e87
+AASKK03,Linear Regression,types of linear regression,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e88
+AASKK03,Linear Regression,what is simple linear regression,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e89
+AASKK03,Linear Regression,what is multiple linear regression,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e90
+AASKK03,Linear Regression,What is dependent variable,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e91
+AASKK03,Linear Regression,What is Target Variable ,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e92
+AASKK03,Linear Regression,What is slope,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e93
+AASKK03,Linear Regression,What is intercept,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e94
+AASKK03,Linear Regression,what is line of best fit,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e95
+AASKK03,Linear Regression,What is Gradient descent,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e96
+AASKK03,Linear Regression,What is OLS methods,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e97
+AASKK03,Linear Regression,what is residual analysis,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e98
+AASKK03,Linear Regression,What is Mean Squared Error or MSE,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e99
+AASKK03,Linear Regression,What is Adjusted R-square,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e100
+AASKK03,Linear Regression,What is Total error or SST,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e101
+AASKK03,Linear Regression,What is Sum Of Squared Error or SSE,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e102
+AASKK03,Linear Regression,What is Regression  error or SSR,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e103
+AASKK03,Linear Regression,What is correlation coefficient,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e104
+AASKK03,Logistic regression,what is logistic regression,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,what is sigmoid function,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,different Types of Logistic Regression,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,Binary Logistic Regression,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,Multinomial Logistic Regression,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression, Ordinal Logistic Regression,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,What is decision Boundary,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,what is cost function,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,knn algorithm,what is non parametric model,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7
+AASKK03,knn algorithm,what is knn,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c8
+AASKK03,knn algorithm,what is knn in  basic,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c9
+AASKK03,knn algorithm,why knn is a lazy learner,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c10
+AASKK03,knn algorithm,application of knn,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c11
+AASKK03,knn algorithm,pros and cons of knn,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c12
+AASKK03,knn algorithm,What is predict proba,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c13
+AASKK03,naïve Bayes,what is naïve Bayes classifier,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,application of naïve Bayes classifier,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,upon which theorem naïve Bayes is based on,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,pros and cons of naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,what type of algorithm is naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,How Naive Bayes Algorithms works,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,Applications of Naive Bayes Algorithm,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,Steps to build a basic Naive Bayes Model,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,Tips to improve the power of Naive Bayes Model,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,what is Gaussian naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,what is multinomial naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,what is Bernoulli naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,how conditional and posterior probability used in naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,svm,what is support vector machine,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,what is support vectors,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,what is hyper plane ,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,how do we find the right hyperplane,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,what happens when there is no clear hyperplane,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,pros and cons of svm,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,uses of svm,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,how to select svm kernels,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,assumption in linear regression,what are the assumption in linear regression,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is Homoscedasticity,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is multicollinearity,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,how multicollinearity affect performance,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,how to test multicollinearity,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is Correlation matrix ,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is Variance Inflation Factor (VIF),https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is Tolerance,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is Autocorrelation,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,how Autocorrelation affect performance,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,matrices of Confusion Matrix,What is F1 score,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is Precision,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is Recall,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is confusion matrix,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,Matthews correlation coefficient,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is sensitivity,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is Specificity,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is True Positive Rate or TPR,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is ROC or AUC curve,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is True Negative Rate or TNR,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,ML library,what are the type of library used in Machine learning,"Numpy,pandas,sklearn,theano,tensorflow,keras,scipy,pytorch,seaborn,matplotlib"
+AASKK03,ML library,name the different library used,"Numpy,pandas,sklearn,theano,tensorflow,keras,scipy,pytorch,seaborn,matplotlib"
+AASKK03,ML library,what are the various library in machine learning,"Numpy,pandas,sklearn,theano,tensorflow,keras,scipy,pytorch,seaborn,matplotlib"
+AASKK03,formula of Linear regression,equation of linear regression,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
+AASKK03,formula of Linear regression,math of linear regression,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
+AASKK03,formula of Linear regression,formula for linear regression,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
+AASKK03,formula of Linear regression,how to calculate slope of linear regression,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
+AASKK03,formula of Linear regression,how to calculate intercept of linear regression,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
+AASKK03,Introduction,what is machine learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,types of machine learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what is supervised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what is semi supervised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,use cases of machine learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what is the different types super vised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,how supervised learning works,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what is learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what is testing,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK04,Ensemble Techniques,What is Ensemble Techniques?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What are the advantages of Ensemble Techniques?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What are the benefits of Ensemble Techniques?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,Which algorithms can be used in an Ensemble?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Bias Error?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Variance Error?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Out of Bag data?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Learning Curve?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Validation Curves?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is Cross Validation?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Techniques,What is difference between Bagging and Boosting?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Ensemble Types,What are the ensemble types?,https://en.wikipedia.org/wiki/Ensemble_techniques
+AASKK04,Stacking,What is Stacking?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What are the advantages of Stacking?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,Is the Stacking training dataset constant?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What are the disadvantages of Stacking?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is Meta Learner Stacking?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is Meta Classifier?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What are the different type of Meta Classifier available?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,Logistic Meta Classifier,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is One Vs All?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is One Vs Rest?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is Base Classifier?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,How Base Classifier and Meta Classifier related?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Stacking,What is Blending?,https://en.wikipedia.org/wiki/Stacking
+AASKK04,Randomization,What is Randomization?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,What is Decision Tree algorithm?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,What is Random Forest Algorithm?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,Is Random Forest based on Decision Tree?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,What is CART?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,What is M5 Tree?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Randomization,What is Regression Trees?,https://en.wikipedia.org/wiki/Randomization
+AASKK04,Decision Tree,What is a Root Node?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is a Decision Nodes?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is a Leaf / Tail Node?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is Gini Index?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is Entropy?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is Information Gain?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,How Information Gain and Entropy are related?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,How to determine most important feature with Information Gain?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,What is dummification of data?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Random Forest,What is Voting Process?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What types of Voting Process are available?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Bootstrap Sampling?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Max Features parameter in Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Num of Trees parameter in Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Max Depth parameter in Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Seed?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Grid Search?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,What is Random Search?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,Is Bagging concepts used in Random Forest algorithm?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Boosting,What is Boosting?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,Are the dataset constant in Boosting?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,Can Boosting be done with different algorithms?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,What is a Bag in Boosting?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,What is AdaBoosing?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,What is Gradient Boosting?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Boosting,What is Extreme Gradient (XG) Boosting?,https://en.wikipedia.org/wiki/Boost
+AASKK04,Bagging,What is Bagging?,https://en.wikipedia.org/wiki/Bagging
+AASKK04,Bagging,What is Bagging Classifier algorithm?,https://en.wikipedia.org/wiki/Bagging
+AASKK04,Bagging,What are the demerits of Bagging?,https://en.wikipedia.org/wiki/Bagging
+AASKK04,Random Forest,More information on Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,Can you provide me more details on Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,I need more details on Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,Where can I find more information on Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Random Forest,Can I get more info on Random Forest?,https://en.wikipedia.org/wiki/Random_forest
+AASKK04,Decision Tree,Unable to understand Decision Tree,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,I need more details to understand Decision Tree?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,Can I get more info on Decision Tree?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK04,Decision Tree,I still have more questions on Decision Tree?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK05,Unsupervised Learnings Basic,basics of unsupervised learning,https://en.wikipedia.org/wiki/Unsupervised_learning
+AASKK05,Unsupervised Learnings Basic,learn  unsupervised leering,https://en.wikipedia.org/wiki/Unsupervised_learning
+AASKK05,Unsupervised Learnings Basic,What is the principle of Unsupervised learnings?,https://en.wikipedia.org/wiki/Unsupervised_learning
+AASKK05,Unsupervised Learnings Basic,what is unsupervised learnings ,https://en.wikipedia.org/wiki/Unsupervised_learning
+AASKK05,Unsupervised Learnings Basic,What is use of unsupervised learning techniques ,https://en.wikipedia.org/wiki/Unsupervised_learning
+AASKK05,Unsupervised Learnings Basic,how unsupervised learning is useful ,https://en.wikipedia.org/wiki/Unsupervised_learning
+AASKK05,Unsupervised Learnings Basic,use of unsupervised learnings ,https://en.wikipedia.org/wiki/Unsupervised_learning
+AASKK05,Unsupervised Learnings Basic,ways of doing unsupervised learning ,https://en.wikipedia.org/wiki/Unsupervised_learning
+AASKK05,Unsupervised Learnings Basic,principal of unsupervised learnings ,https://en.wikipedia.org/wiki/Unsupervised_learning
+AASKK05,Types of Unsupervised Learnings ,how we can do unsupervised leanings ,"https://www.guru99.com/unsupervised-machine-learning.html#:~:text=Unsupervised%20machine%20learning%20helps%20you,3)%20Overlapping%204)%20Probabilistic."
+AASKK05,Types of Unsupervised Learnings ,types of unsupervised learnings ,"https://www.guru99.com/unsupervised-machine-learning.html#:~:text=Unsupervised%20machine%20learning%20helps%20you,3)%20Overlapping%204)%20Probabilistic."
+AASKK05,Types of Unsupervised Learnings ,different ways of doing unsupervised learnings ,"https://www.guru99.com/unsupervised-machine-learning.html#:~:text=Unsupervised%20machine%20learning%20helps%20you,3)%20Overlapping%204)%20Probabilistic."
+AASKK05,Types of Unsupervised Learnings ,how to do unsupervised learnings,"https://www.guru99.com/unsupervised-machine-learning.html#:~:text=Unsupervised%20machine%20learning%20helps%20you,3)%20Overlapping%204)%20Probabilistic."
+AASKK05,Types of Unsupervised Learnings ,how to perform unsupervised learning,"https://www.guru99.com/unsupervised-machine-learning.html#:~:text=Unsupervised%20machine%20learning%20helps%20you,3)%20Overlapping%204)%20Probabilistic."
+AASKK05,Clustering Techniques basic,what is clustering techniques ,https://en.wikipedia.org/wiki/Cluster_analysis
+AASKK05,Clustering Techniques basic,ways to do handle clustering ,https://en.wikipedia.org/wiki/Cluster_analysis
+AASKK05,Clustering Techniques basic,how clustering can be handled ,https://en.wikipedia.org/wiki/Cluster_analysis
+AASKK05,Clustering Techniques basic,use of clustering techniques,https://en.wikipedia.org/wiki/Cluster_analysis
+AASKK05,Clustering Techniques basic,fields where clustering is used ,https://en.wikipedia.org/wiki/Cluster_analysis
+AASKK05,Clustering Techniques basic,impact of clustering ,https://en.wikipedia.org/wiki/Cluster_analysis
+AASKK05,Clustering Techniques basic,effect of clustering,https://en.wikipedia.org/wiki/Cluster_analysis
+AASKK05,Clustering Techniques basic,how are cluster graphical representation ,https://en.wikipedia.org/wiki/Cluster_analysis
+AASKK05,Clustering Techniques basic,how to cluster in data looks like,https://en.wikipedia.org/wiki/Cluster_analysis
+AASKK05,Types of Clustering techniques,types of clustering ,https://www.datanovia.com/en/blog/types-of-clustering-methods-overview-and-quick-start-r-code/
+AASKK05,Types of Clustering techniques,ways of doing clustering,https://www.datanovia.com/en/blog/types-of-clustering-methods-overview-and-quick-start-r-code/
+AASKK05,Types of Clustering techniques,different types of clustering techniques,https://www.datanovia.com/en/blog/types-of-clustering-methods-overview-and-quick-start-r-code/
+AASKK05,Non Hierarchical Clustering,non hierarchical clustering ,https://en.wikipedia.org/wiki/Hierarchical_clustering
+AASKK05,Non Hierarchical Clustering,ways to do nonhierarchical clustering ,https://en.wikipedia.org/wiki/Hierarchical_clustering
+AASKK05,Non Hierarchical Clustering,how to do nonhierarchical clustering,https://en.wikipedia.org/wiki/Hierarchical_clustering
+AASKK05,Non Hierarchical Clustering,what is nonhierarchical clustering,https://en.wikipedia.org/wiki/Hierarchical_clustering
+AASKK05,Non Hierarchical Clustering,nonhierarchical clustering ,https://en.wikipedia.org/wiki/Hierarchical_clustering
+AASKK05,Non Hierarchical Clustering,ways to do non hierarchical clustering ,https://en.wikipedia.org/wiki/Hierarchical_clustering
+AASKK05,Non Hierarchical Clustering,how to do non hierarchical clustering,https://en.wikipedia.org/wiki/Hierarchical_clustering
+AASKK05,Non Hierarchical Clustering,what is non hierarchical clustering,https://en.wikipedia.org/wiki/Hierarchical_clustering
+AASKK05,Non Hierarchical Clustering,hierarchical clustering ,https://mb3is.megx.net/gustame/dissimilarity-based-methods/cluster-analysis/non-hierarchical-cluster-analysis
+AASKK05,Types of Hierarchical Clustering,ways to do hierarchical clustering ,https://mb3is.megx.net/gustame/dissimilarity-based-methods/cluster-analysis/non-hierarchical-cluster-analysis
+AASKK05,Types of Hierarchical Clustering,what is hierarchical clustering,https://mb3is.megx.net/gustame/dissimilarity-based-methods/cluster-analysis/non-hierarchical-cluster-analysis
+AASKK05,K- Mean,what is kmean clustering ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,how to perform kmean unsupervised method,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,how to perform kmean unsupervised techniques,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,use of kmean clustering,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,kmeans clustering use,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,effect of kmeans clustering,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,impact of kmean clustering on data set ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,what is k mean clustering ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,how to perform k mean unsupervised method,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,how to perform k mean unsupervised techniques,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,use of k mean clustering,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,k means clustering use,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,effect of k means clustering,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,impact of k mean clustering on data set ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,algorithm used in kmeans,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,algorithm used in k means,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,formula used in kmeans,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,formula used in k means,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,how to find centroid of cluster in k mean clustering,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,do we standardize data in k means clustering ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,what is Lloyd's algorithm ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,what is k in kmeans clustering ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,what is output of k means clustering ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,how to calculate with in cluster variance ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,how to calculate total cluster inertia ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,problem with k means clustering ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,issue with k mean clustering,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,benefits of k mean clustering ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,what Is elbow plot,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,K- Mean,importance of elbow plot ,https://en.wikipedia.org/wiki/K-means_clustering
+AASKK05,DB scan,what is Db scan clustering ,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,use of Db scan clustering,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,Db scans clustering use,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,effect of Db scans clustering,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,what is dBs can clustering ,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,how to perform DB scan unsupervised method,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,how to perform DB scan unsupervised techniques,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,use of dBs can clustering,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,DB scan clustering use,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,effect of DB scan clustering,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,impact of DB scan clustering on data set ,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,algorithm used in DB scan,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,algorithm used in Db scans,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,formula used in DB scan,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,DB scan,formula used in Db scans,https://en.wikipedia.org/wiki/DBSCAN
+AASKK05,Agglomerative Clustering ,what is agglomerative clustering ,"http://mlwiki.org/index.php/Hierarchical_Clustering#:~:text=Agglomerative%20Clustering%3A%20This%20is%20a,one%20moves%20up%20the%20hierarchy."
+AASKK05,Agglomerative Clustering ,how to do agglomerative clustering,"http://mlwiki.org/index.php/Hierarchical_Clustering#:~:text=Agglomerative%20Clustering%3A%20This%20is%20a,one%20moves%20up%20the%20hierarchy."
+AASKK05,PCA,What PCA ,https://en.wikipedia.org/wiki/Principal_component_analysis
+AASKK05,PCA,PCA technique ,https://en.wikipedia.org/wiki/Principal_component_analysis
+AASKK05,PCA,How to do PCA,https://en.wikipedia.org/wiki/Principal_component_analysis
+AASKK05,SVM,What is SVM,https://en.wikipedia.org/wiki/Support_vector_machine
+AASKK05,SVM,How to do SVM,https://en.wikipedia.org/wiki/Support_vector_machine
+AASKK06,CATEGORY1,What is classification in machine learning?,https://www.geeksforgeeks.org/getting-started-with-classification/
+AASKK06,CATEGORY2,What are regression methods?,https://www.geeksforgeeks.org/ml-linear-regression/
+AASKK06,CATEGORY3,What is Regression and Classification in Machine Learning?,https://www.geeksforgeeks.org/regression-classification-supervised-machine-learning/
+AASKK06,CATEGORY4,What is classification algorithm?,https://en.wikipedia.org/wiki/Category:Classification_algorithms
+AASKK06,CATEGORY5,what are all different regression algorithm names?,https://en.wikipedia.org/wiki/Regression_analysis
+AASKK06,CATEGORY6,What are different types of classification methods?,"Generative models , Discriminative models, Decision trees, mutual_info_classif, LDA, QDA, SVM, Random Forest, Decision trees, Ensemble methods, Logsistic regression, Naive Bayes,KNeighborsClassifier, "
+AASKK06,CATEGORY8,What are basic ensemble techniques?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
+AASKK06,CATEGORY10,what are all different classification algorithm names?,"MaximumMarginClassiﬁer, Perceptron, Nueral network classifier, LinearDiscriminantAnalysis,QuadraticDiscriminantAnalysis,RandomForestClassifier, AdaBoostClassifier,LogisticRegression, SGDClassifier,GaussianNB,MultinomialNB,KNeighborsClassifier, MLPClassifier, DecisionTreeClassifier"
+AASKK06,CATEGORY12,what are all different Sampling techniques?,"df.sample,train_test_split, KFold, StratifiedKFold"
+AASKK06,CATEGORY13,what are all different Pipeline names?,"Pipeline, PMML pipeline, column transformed, Missing value imputer, Variance threshold"
+AASKK06,CATEGORY14,what are all different scoring mechanisms?,"matthews_corrcoef, Pearson Correlation coeff, AUC, ROC-AUC, False positive, False Negetive, True positive, True Negetive, False positive rate, True positive rate, specificity, sensitivity"
+AASKK06,CATEGORY15,what are all different Preprocessing techniques?,"StandardScaler, MinMaxScaler,OneHotEncoder, RobustScaler, OutputEncoding, Normalization, Frequency encoding, Mean Encoding, Median encoding."
+AASKK06,CATEGORY16,what are all different dimensionality reduction methods?,"PCA, SVD, Randomized SVD, Truncated SVD, "
+AASKK06,CATEGORY17,what are all different clustering methods?,"Kmeans clustering, DBSCAN, Aggloromative clustering, Heirarchial clustering, Top down clustering, Bottom up clustering, Dendograms,Dynamic Clustering, Static clustering"
+AASKK06,CATEGORY18,what are all different linkage methods available in Clustering? ,"Complete Linkage, Silhouette analysis , Ward linkage,"
+AASKK06,CATEGORY19,What are all different distance measures?,"Manhattan, Euclidean, Cosine,Jaccard distance,Edit distance,Mahalanobis distance,Elbow method,Entropy,Pruning,"
+AASKK06,CATEGORY20,what are all different hyper parameter optimization methods?,"GridSearch, RandomizedSearch, HyperoptEstimator, CrossValidation Framework"
+AASKK06,CATEGORY21,what are all applications of ensemble learning?,"Medicine, Financial decision-making, Fraud detection, Emotion recognition,Face recognition,Intrusion detection,Malware Detection,Distributed denial of service,"
+AASKK06,CATEGORY22,what are all different statistical Risk minimization?,"MLE, MAP,Likelihood of a Gaussian, EIGENVECTORS,the Bias-Variance Decomposition,EmpiricalRisk, RidgeRegression,SubsetSelection,Lasso,"
+AASKK06,Nurel Network,What is a Neural Network?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What Is a Multi-layer Perceptron(MLP)?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,Did not get neural networks?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,Unable to understand neural networks?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What is the Boltzmann Machine?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What Is the Role of Activation Functions in a Neural Network?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What Is the Cost Function?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What Is Deep Learning?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,"What Is Data Normalization, and Why Do We Need It?",https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What Is Gradient Descent?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What Do You Understand by Backpropagation?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What Is the Difference Between a Feedforward Neural Network and Recurrent Neural Network?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What Are the Applications of a Recurrent Neural Network (RNN)?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What Are the SoftMax and ReLU Functions?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What Are Hyperparameters?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,"What Is Overfitting and Underfitting, and How to Combat Them?",https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,"What Is the Difference Between Epoch, Batch, and Iteration in Deep Learning?",https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Nurel Network,What Is Bagging and Boosting?,https://en.wikipedia.org/wiki/Deep_learning
+AASKK06,Decision Tree,What are decision trees in machine learning?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK06,Decision Tree,What are Decision tree elements?,https://en.wikipedia.org/wiki/Decision_tree
+AASKK06,Decision Tree,What is query computational complexity?,https://en.wikipedia.org/wiki/Decision_tree_model
+AASKK06,Decision Tree,What is query computational model?,https://en.wikipedia.org/wiki/Decision_tree_model
+AASKK06,Decision Tree,What is Relationship between different models?,https://en.wikipedia.org/wiki/Decision_tree_model
+AASKK06,CATEGORY6,What are all new methods available in classification?,"Generative models , Discriminative models, Decision trees, mutual_info_classif, LDA, QDA, SVM,"
+AASKK06,CATEGORY6,Can you explain some of the newer advanced methods in classification?,"Generative models , Discriminative models, Decision trees, mutual_info_classif, LDA, QDA, SVM,"
+AASKK06,CATEGORY6,More info on newer advanced methods in classification?,"Generative models , Discriminative models, Decision trees, mutual_info_classif, LDA, QDA, SVM,"
+AASKK06,CATEGORY7,can you provide me more details on classification methods?," Random Forest, Decision trees, Ensemble methods, Logsistic regression, Naive Bayes,KNeighborsClassifier, "
+AASKK06,CATEGORY7,more info on classification methods?," Random Forest, Decision trees, Ensemble methods, Logsistic regression, Naive Bayes,KNeighborsClassifier, "
+AASKK06,CATEGORY7,Can you explain different classification methods?," Random Forest, Decision trees, Ensemble methods, Logsistic regression, Naive Bayes,KNeighborsClassifier, "
+AASKK06,CATEGORY6,What are different types of advanced classification  methods?,"Generative models , Discriminative models, Decision trees, mutual_info_classif, LDA, QDA, SVM,"
+AASKK06,CATEGORY8,What are all new methods available in regression?,"Mutual_info_regression,Ridge regression, Lasso Rigression,"
+AASKK06,CATEGORY8,Can you explain some of the newer advanced methods in regression?,"Mutual_info_regression,Ridge regression, Lasso Rigression,"
+AASKK06,CATEGORY8,More info on newer advanced methods in regression?,"Mutual_info_regression,Ridge regression, Lasso Rigression,"
+AASKK06,CATEGORY8,Explain in words some of the advanced methods in regression?,"Mutual_info_regression,Ridge regression, Lasso Rigression,"
+AASKK06,CATEGORY8,What are different types of advanced regression methods?,"Mutual_info_regression,Ridge regression, Lasso Rigression,"
+AASKK06,CATEGORY9,What are different types of regression methods?,"Linear regression,  Polynomail regression, Decision trees regression,SVM Regression, Random Forest Regression, Decision trees regression, Ensemble methods,KNeighborsRegresspr "
+AASKK06,CATEGORY9,Can you explain some of the newer methods in regression?,"Linear regression,  Polynomail regression, Decision trees regression,SVM Regression, Random Forest Regression, Decision trees regression, Ensemble methods,KNeighborsRegresspr "
+AASKK06,CATEGORY9,More info on newer methods in regression?,"Linear regression,  Polynomail regression, Decision trees regression,SVM Regression, Random Forest Regression, Decision trees regression, Ensemble methods,KNeighborsRegresspr "
+AASKK06,CATEGORY9,Explain in words some of the methods in regression?,"Linear regression,  Polynomail regression, Decision trees regression,SVM Regression, Random Forest Regression, Decision trees regression, Ensemble methods,KNeighborsRegresspr "
+AASKK06,CATEGORY9,What are different types of  regression methods?,"Linear regression,  Polynomail regression, Decision trees regression,SVM Regression, Random Forest Regression, Decision trees regression, Ensemble methods,KNeighborsRegresspr "
+AASKK06,CATEGORY10,what are all different Advanced Ensemble classification methods?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
+AASKK06,CATEGORY10,What are different types of advanced ensemble methods?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
+AASKK06,CATEGORY10,What are all new methods available in advanced ensemble classification?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
+AASKK06,CATEGORY10,Can you explain some of the newer methods in advanced ensemble classification?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
+AASKK06,CATEGORY10,More info on newer methods in advanced ensemble classification?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
+AASKK06,CATEGORY10,Explain in words some of the methods in advanced ensemble classification?,"Stochastic Gradient descent, Light Gradient Descent, XGBOOST, CATBOOST,One Vs All, One vs Rest Classifier."
+AASKK06,CATEGORY11,what are all different basic Ensemble classification methods?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
+AASKK06,CATEGORY11,What are different types of basic ensemble methods?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
+AASKK06,CATEGORY11,What are all new methods available in basic ensemble classification?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
+AASKK06,CATEGORY11,Can you explain some of the newer methods in basic ensemble classification?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
+AASKK06,CATEGORY11,More info on newer methods in basic ensemble classification?,"Max Voting, Hard voting, weighted voting, Soft voting, Averaging, weight averaging, Sample selection, Row selection, Feature selection, Feture union"
+AASKK06,CATEGORY12,what are all different Ensemble classification methods?," Bagging, Boosting, RandomForest, Stacking Classifier, "
+AASKK06,CATEGORY12,Define some of the ensemble classification methods?," Bagging, Boosting, RandomForest, Stacking Classifier, "
+AASKK06,CATEGORY12,What are different types of  ensemble methods?," Bagging, Boosting, RandomForest, Stacking Classifier, "
+AASKK06,CATEGORY12,What are all new methods available in  ensemble classification?," Bagging, Boosting, RandomForest, Stacking Classifier, "
+AASKK06,CATEGORY12,Can you explain some of the newer methods in ensemble classification?," Bagging, Boosting, RandomForest, Stacking Classifier, "
+AASKK06,CATEGORY6,Name a few classification model," Random Forest Classifier, Decision trees  Classifier, Ensemble methods  Classifier, Logsistic regression, Naive Bayes,KNeighborsClassifier, "

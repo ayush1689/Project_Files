@@ -1,0 +1,128 @@
+﻿Topic_Code,Topic_Categories,Question,Response
+AASKK03,Introduction,what is machine learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,types of machine learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what is supervised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what is semi supervised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,use cases of machine learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what is the different types super vised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,how supervised learning works,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what is learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what is testing,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what is the process of super vised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what are real life business cases ,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what are the different types of algorithm used in supervised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what are the different domain where supervised learning is used,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Introduction,what are the common examples of supervised learning,https://vinodsblog.com/2018/10/08/machine-learning-introduction-to-supervised-learning/
+AASKK03,Preprocessing,what is preprocessing,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,why preprocessing is needed,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,what is missing value imputation,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,what is feature encoding,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,how to do feature encoding,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,how to do one hot encoding,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,what is label encoder,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,how to split our data,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,what is feature scaling,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,What is the Validation of model,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,What is Standardization,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Preprocessing,What is Normalization,https://medium.com/datadriveninvestor/data-preprocessing-for-machine-learning-188e9eef1d2c
+AASKK03,Types of Algorithm,Polynomial Regression,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Types of Algorithm,Logistic Regression,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Types of Algorithm,Naïve Bayes Algorithm,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Types of Algorithm,k nearest neighbor,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Types of Algorithm,Linear regression,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Types of Algorithm,support vector machine,https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
+AASKK03,Linear Regression,what is Linear Regression,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
+AASKK03,Linear Regression,What is linear relationship ,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e87
+AASKK03,Linear Regression,types of linear regression,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e88
+AASKK03,Linear Regression,what is simple linear regression,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e89
+AASKK03,Linear Regression,what is multiple linear regression,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e90
+AASKK03,Linear Regression,What is dependent variable,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e91
+AASKK03,Linear Regression,What is Target Variable ,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e92
+AASKK03,Linear Regression,What is slope,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e93
+AASKK03,Linear Regression,What is intercept,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e94
+AASKK03,Linear Regression,what is line of best fit,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e95
+AASKK03,Linear Regression,What is Gradient descent,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e96
+AASKK03,Linear Regression,What is OLS methods,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e97
+AASKK03,Linear Regression,what is residual analysis,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e98
+AASKK03,Linear Regression,What is Mean Squared Error or MSE,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e99
+AASKK03,Linear Regression,What is Adjusted R-square,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e100
+AASKK03,Linear Regression,What is Total error or SST,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e101
+AASKK03,Linear Regression,What is Sum Of Squared Error or SSE,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e102
+AASKK03,Linear Regression,What is Regression  error or SSR,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e103
+AASKK03,Linear Regression,What is correlation coefficient,https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e104
+AASKK03,Logistic regression,what is logistic regression,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,what is sigmoid function,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,different Types of Logistic Regression,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,Binary Logistic Regression,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,Multinomial Logistic Regression,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression, Ordinal Logistic Regression,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,What is decision Boundary,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,Logistic regression,what is cost function,https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+AASKK03,knn algorithm,what is non parametric model,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c7
+AASKK03,knn algorithm,what is knn,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c8
+AASKK03,knn algorithm,what is knn in  basic,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c9
+AASKK03,knn algorithm,why knn is a lazy learner,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c10
+AASKK03,knn algorithm,application of knn,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c11
+AASKK03,knn algorithm,pros and cons of knn,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c12
+AASKK03,knn algorithm,What is predict proba,https://blog.usejournal.com/a-quick-introduction-to-k-nearest-neighbors-algorithm-62214cea29c13
+AASKK03,naïve Bayes,what is naïve Bayes classifier,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,application of naïve Bayes classifier,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,upon which theorem naïve Bayes is based on,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,pros and cons of naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,what type of algorithm is naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,How Naive Bayes Algorithms works,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,Applications of Naive Bayes Algorithm,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,Steps to build a basic Naive Bayes Model,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,Tips to improve the power of Naive Bayes Model,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,what is Gaussian naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,what is multinomial naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,what is Bernoulli naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,naïve Bayes,how conditional and posterior probability used in naïve Bayes,https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+AASKK03,svm,what is support vector machine,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,what is support vectors,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,what is hyper plane ,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,how do we find the right hyperplane,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,what happens when there is no clear hyperplane,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,pros and cons of svm,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,uses of svm,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,svm,how to select svm kernels,https://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html
+AASKK03,assumption in linear regression,what are the assumption in linear regression,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is Homoscedasticity,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is multicollinearity,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,how multicollinearity affect performance,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,how to test multicollinearity,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is Correlation matrix ,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is Variance Inflation Factor (VIF),https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is Tolerance,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,what is Autocorrelation,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,assumption in linear regression,how Autocorrelation affect performance,https://www.statisticssolutions.com/assumptions-of-linear-regression/
+AASKK03,matrices of Confusion Matrix,What is F1 score,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is Precision,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is Recall,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is Model evaluation,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is confusion matrix,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,Matthews correlation coefficient,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is sensitivity,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is Specificity,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is True Positive Rate or TPR,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is ROC or AUC curve,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,matrices of Confusion Matrix,What is True Negative Rate or TNR,"https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=Specificity%20(True%20negative%20rate),whereas%20the%20worst%20is%200.0."
+AASKK03,ML library,what are the type of library used in Machine learning,"Numpy,pandas,sklearn,theano,tensorflow,keras,scipy,pytorch,seaborn,matplotlib"
+AASKK03,ML library,name the different library used,"Numpy,pandas,sklearn,theano,tensorflow,keras,scipy,pytorch,seaborn,matplotlib"
+AASKK03,ML library,what are the various library in machine learning,"Numpy,pandas,sklearn,theano,tensorflow,keras,scipy,pytorch,seaborn,matplotlib"
+AASKK03,formula of Linear regression,equation of linear regression,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
+AASKK03,formula of Linear regression,math of linear regression,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
+AASKK03,formula of Linear regression,formula for linear regression,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
+AASKK03,formula of Linear regression,how to calculate slope of linear regression,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
+AASKK03,formula of Linear regression,how to calculate intercept of linear regression,https://www.statisticshowto.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
+AASKK03,Greetings,Hi there,"Hi there, how can I help?"
+AASKK03,Greetings,How are you,"Hello, thanks for asking"
+AASKK03,Greetings,Is anyone there?,"Hello, Good to see you"
+AASKK03,Greetings,Hey,"Hi there, how can I help?"
+AASKK03,Greetings,Hola,"Hi there, how can I help?"
+AASKK03,Greetings,Hello,"Hi there, how can I help?"
+AASKK03,Greetings,Good day,"Good to see you, how can I help you ?"
+AASKK03,Bye Greetings,Bye,Please Click on Exit or Restart button on top
+AASKK03,Bye Greetings,Exit,Please Click on Exit or Restart button on top
+AASKK03,Bye Greetings,Restart,Please Click on Exit or Restart button on top
+AASKK03,Bye Greetings,Close,Please Click on Exit or Restart button on top
